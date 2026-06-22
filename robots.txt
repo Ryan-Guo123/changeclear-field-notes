@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryan-guo123.github.io/changeclear-field-notes/sitemap.xml
