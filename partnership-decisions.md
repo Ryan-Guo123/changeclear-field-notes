@@ -15,7 +15,7 @@ ChangeClear does not provide legal advice or equity allocation advice. It helps 
 
 Try one anonymous partnership question:
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=partnership_decisions
+https://www.changeclear.com/ask?prompt=Is%20this%20cofounder%20tension%20about%20equity%2C%20trust%2C%20or%20decision%20rights%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=partnership_decisions
 
 ## Notes
 

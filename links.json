@@ -1,7 +1,8 @@
 {
   "product": "ChangeClear",
   "primary_url": "https://www.changeclear.com",
-  "ask_url": "https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=links_json",
+  "ask_url": "https://www.changeclear.com/ask?prompt=What%20is%20actually%20changing%20in%20my%20situation%2C%20and%20what%20decision%20boundary%20should%20I%20watch%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json",
+  "paid_claim_url": "https://www.changeclear.com/paid?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_paid_claim",
   "field_notes": [
     "https://www.changeclear.com/field-notes/product-hunt-not-verdict",
     "https://www.changeclear.com/field-notes/zero-mrr-specific-offer",
@@ -15,11 +16,11 @@
     "https://www.changeclear.com/field-notes/not-prediction-change"
   ],
   "use_cases": [
-    "https://www.changeclear.com/use-cases/product-launch-zero-mrr",
-    "https://www.changeclear.com/use-cases/feature-request-roadmap",
-    "https://www.changeclear.com/use-cases/counter-offer-decision",
-    "https://www.changeclear.com/use-cases/high-salary-offer",
-    "https://www.changeclear.com/use-cases/cofounder-equity-trust"
+    "https://www.changeclear.com/use-cases/product-launch-zero-mrr?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_zero_mrr",
+    "https://www.changeclear.com/use-cases/feature-request-roadmap?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_roadmap",
+    "https://www.changeclear.com/use-cases/counter-offer-decision?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_counter_offer",
+    "https://www.changeclear.com/use-cases/high-salary-offer?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_high_salary",
+    "https://www.changeclear.com/use-cases/cofounder-equity-trust?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json_cofounder"
   ],
   "boundary": "Structured guidance for moments of change; not prediction, therapy, legal, medical, or financial advice."
 }

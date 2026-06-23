@@ -15,7 +15,7 @@ ChangeClear is not therapy, legal advice, medical advice, financial advice, fate
 
 Try one anonymous question:
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=method_boundary
+https://www.changeclear.com/ask?prompt=What%20is%20actually%20changing%20in%20my%20situation%2C%20and%20what%20decision%20boundary%20should%20I%20watch%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=method_boundary
 
 ## Notes
 

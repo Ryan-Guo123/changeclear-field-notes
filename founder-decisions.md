@@ -13,7 +13,7 @@ ChangeClear does not replace customer evidence, pricing tests, legal advice, fin
 
 Try one anonymous founder question:
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=founder_decisions
+https://www.changeclear.com/ask?prompt=Is%20my%20current%20problem%20product%20quality%2C%20distribution%2C%20or%20an%20offer%20that%20is%20still%20too%20vague%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=founder_decisions
 
 ## Notes
 

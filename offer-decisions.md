@@ -12,7 +12,7 @@ ChangeClear does not make the decision for you and does not provide legal, finan
 
 Try one anonymous offer question:
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=offer_decisions
+https://www.changeclear.com/ask?prompt=Is%20this%20offer%20a%20real%20step%20forward%2C%20or%20am%20I%20trading%20money%20for%20a%20worse%20life%20structure%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=offer_decisions
 
 ## Notes
 

@@ -14,7 +14,7 @@ ChangeClear is not therapy, legal advice, medical advice, financial advice, or g
 
 Try one anonymous question:
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=repo_readme_top
+https://www.changeclear.com/use-cases/product-launch-zero-mrr?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=repo_readme_top
 
 ## Field Notes
 
@@ -71,4 +71,10 @@ Founding access opens:
 
 Current founding access starts at USD 29.
 
-https://www.changeclear.com/ask?utm_source=github_repo&utm_medium=public_index&utm_campaign=day3_revenue_sprint&utm_content=repo_readme_bottom
+Start with a concrete use case:
+
+https://www.changeclear.com/use-cases/feature-request-roadmap?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=repo_readme_bottom
+
+Already paid through Stripe:
+
+https://www.changeclear.com/paid?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=repo_readme_paid_claim
