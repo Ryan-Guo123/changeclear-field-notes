@@ -75,7 +75,11 @@ Start with a concrete use case:
 
 https://www.changeclear.com/use-cases/feature-request-roadmap?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=repo_readme_bottom
 
-Public launch pack:
+Primary launch pack:
+
+https://www.changeclear.com/launch-pack?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_main_launch_pack&utm_content=repo_readme_primary
+
+Public mirror launch pack:
 
 https://ryan-guo123.github.io/changeclear-field-notes/launch-pack.html
 

@@ -1,6 +1,7 @@
 {
   "product": "ChangeClear",
   "primary_url": "https://www.changeclear.com",
+  "main_launch_pack_url": "https://www.changeclear.com/launch-pack?utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_main_launch_pack&utm_content=links_json_primary_launch_pack",
   "share_kit_url": "https://ryan-guo123.github.io/changeclear-field-notes/share-kit.html",
   "launch_pack_url": "https://ryan-guo123.github.io/changeclear-field-notes/launch-pack.html",
   "ask_url": "https://www.changeclear.com/ask?prompt=What%20is%20actually%20changing%20in%20my%20situation%2C%20and%20what%20decision%20boundary%20should%20I%20watch%3F&utm_source=github_repo&utm_medium=public_index&utm_campaign=day5_prefill_reading&utm_content=links_json",
