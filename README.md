@@ -48,6 +48,16 @@ See also: [Offer decisions](./offer-decisions.md)
 
 See also: [Method boundary](./method-boundary.md)
 
+## Live Use Case Pages
+
+These are concrete entry points for people who already recognize the decision moment:
+
+- [Product launch with zero MRR](https://www.changeclear.com/use-cases/product-launch-zero-mrr)
+- [Feature request or roadmap shift](https://www.changeclear.com/use-cases/feature-request-roadmap)
+- [Counter offer decision](https://www.changeclear.com/use-cases/counter-offer-decision)
+- [High salary offer](https://www.changeclear.com/use-cases/high-salary-offer)
+- [Cofounder equity and trust](https://www.changeclear.com/use-cases/cofounder-equity-trust)
+
 ## What Paid Access Opens
 
 The free frame shows the question, the active pattern, and the situation reading.
